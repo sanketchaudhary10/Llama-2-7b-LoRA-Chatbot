@@ -1,0 +1,13 @@
+Prompt,Model 1 Response,Model 2 Response,Model 3 Response,Construct,Sub-question,Rating
+This is prompt 1.,Model 1 response for prompt 1,Model 2 response for prompt 1,Model 3 response for prompt 1,Fluency,How fluent is the text?,3
+This is prompt 1.,Model 1 response for prompt 1,Model 2 response for prompt 1,Model 3 response for prompt 1,Fluency,Is the language natural?,3
+This is prompt 1.,Model 1 response for prompt 1,Model 2 response for prompt 1,Model 3 response for prompt 1,Fluency,Is the text easy to understand?,3
+This is prompt 1.,Model 1 response for prompt 1,Model 2 response for prompt 1,Model 3 response for prompt 1,Relevance,How relevant is the text to the given context?,3
+This is prompt 1.,Model 1 response for prompt 1,Model 2 response for prompt 1,Model 3 response for prompt 1,Relevance,Does the text address the main points?,3
+This is prompt 1.,Model 1 response for prompt 1,Model 2 response for prompt 1,Model 3 response for prompt 1,Relevance,Is the text informative?,3
+This is prompt 2.,Model 1 response for prompt 2,Model 2 response for prompt 2,Model 3 response for prompt 2,Coherence,How coherent is the text?,3
+This is prompt 2.,Model 1 response for prompt 2,Model 2 response for prompt 2,Model 3 response for prompt 2,Coherence,Do the ideas flow logically?,3
+This is prompt 2.,Model 1 response for prompt 2,Model 2 response for prompt 2,Model 3 response for prompt 2,Coherence,Are transitions smooth?,3
+This is prompt 2.,Model 1 response for prompt 2,Model 2 response for prompt 2,Model 3 response for prompt 2,Grammaticality,How grammatical is the text?,3
+This is prompt 2.,Model 1 response for prompt 2,Model 2 response for prompt 2,Model 3 response for prompt 2,Grammaticality,Are there any grammatical errors?,3
+This is prompt 2.,Model 1 response for prompt 2,Model 2 response for prompt 2,Model 3 response for prompt 2,Grammaticality,Is the sentence structure correct?,3
