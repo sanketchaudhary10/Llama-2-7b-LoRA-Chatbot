@@ -14,3 +14,5 @@ This repository contains the code for a Mental Health Assistant Chatbot, develop
 - Fine-Tuning: Low-Rank Adaptation (LoRA)
 - Training Framework: Hugging Face Transformers, PyTorch
 - Evaluation: BLEU, ROUGE, BERTScore, Perplexity
+
+HuggingFace model card - AN181716/llama-2-7b-enhanced2_20
