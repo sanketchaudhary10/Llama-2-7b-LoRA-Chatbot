@@ -12,7 +12,7 @@ BASE_MODEL_NAME = "meta-llama/Llama-2-7b-chat-hf"  # Base model name
 PEFT_MODEL_PATH = "/N/project/GenAIMH/llama2_7b_chat/Llama-2_7B-chat_3"     # Path to your fine-tuned model
 
 # Hugging Face authentication token
-HF_TOKEN = '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'  # Replace with your actual token
+HF_TOKEN = ''  # Replace with your actual token
 
 # System message used during training
 SYSTEM_MESSAGE = "Hello, this is an automated response. Please seek professional help if needed."
